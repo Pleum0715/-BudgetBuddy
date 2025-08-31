@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (Responsive UI, Modern Design)
+- **Frontend:** HTML, CSS, JavaScript (Responsive UI, Modern Design), Figma
 - **Backend:** Node.js
 - **Database:** Google Sheets (API Integration)
 - **AI:** Google Gemini 1.5 (วิเคราะห์พฤติกรรมการเงิน)
