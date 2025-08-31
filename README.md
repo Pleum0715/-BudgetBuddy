@@ -31,7 +31,7 @@
 
 ## 📸 Screenshots
 
-*(แนะนำให้แปะ screenshot หรือ GIF demo ที่โชว์ Dashboard, Chart, Goal Tracking)*  
+ 
 
 ---
 
