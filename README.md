@@ -31,11 +31,17 @@
 
 ## 📸 Screenshots
 
-### 📱 Mobile View
-![Mobile Screenshot](MB.jpg)
-
-### 💻 PC View
-![PC Screenshot](PC.jpg)
+<p align="center">
+  <figure>
+    <img src="MB.jpg" width="250">
+    <figcaption align="center">📱 Mobile View</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="PC.jpg" width="400">
+    <figcaption align="center">💻 Desktop View</figcaption>
+  </figure>
+</p>
 
 ---
 
