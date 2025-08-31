@@ -31,7 +31,11 @@
 
 ## 📸 Screenshots
 
- 
+### 📱 Mobile View
+![Mobile Screenshot](MB.jpg)
+
+### 💻 PC View
+![PC Screenshot](PC.jpg)
 
 ---
 
