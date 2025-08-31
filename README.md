@@ -31,17 +31,20 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <div style="display:inline-block; margin: 20px;">
-    <h4 align="center">📱 Mobile View</h4>
+<div align="center" style="display:flex; gap:40px; justify-content:center;">
+
+  <div>
+    <h4>📱 Mobile View</h4>
     <img src="MB.jpg" width="250">
   </div>
 
-  <div style="display:inline-block; margin: 20px;">
-    <h4 align="center">💻 Desktop View</h4>
+  <div>
+    <h4>💻 Desktop View</h4>
     <img src="PC.jpg" width="400">
   </div>
-</p>
+
+</div>
+
 
 
 ---
