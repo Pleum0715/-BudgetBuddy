@@ -32,16 +32,17 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <figure>
+  <div style="display:inline-block; margin: 20px;">
+    <h4 align="center">📱 Mobile View</h4>
     <img src="MB.jpg" width="250">
-    <figcaption align="center">📱 Mobile View</figcaption>
-  </figure>
-  
-  <figure>
+  </div>
+
+  <div style="display:inline-block; margin: 20px;">
+    <h4 align="center">💻 Desktop View</h4>
     <img src="PC.jpg" width="400">
-    <figcaption align="center">💻 Desktop View</figcaption>
-  </figure>
+  </div>
 </p>
+
 
 ---
 
